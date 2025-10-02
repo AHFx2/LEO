@@ -301,16 +301,7 @@ export function Phase3() {
             </CardHeader>
             <CardContent>
               <form onSubmit={handleArbitrationSubmit} className="space-y-6">
-                <div className="space-y-2">
-                  <Label htmlFor="case-number">Case Number</Label>
-                  <Input
-                    id="case-number"
-                    placeholder="Enter existing case number (if applicable)"
-                    value={arbitrationForm.caseNumber}
-                    onChange={(e) => handleFormChange("caseNumber", e.target.value)}
-                    className="bg-input border-border"
-                  />
-                </div>
+                
 
                 <div className="space-y-2">
                   <Label htmlFor="arbitrator-type">Choose Arbitrator</Label>

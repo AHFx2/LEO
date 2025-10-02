@@ -1,7 +1,7 @@
 
-  # Space-UI/UX Description Document (Copy)
+  # UI/UX Description Document (Copy)
 
-  This is a code bundle for Space-UI/UX Description Document (Copy). The original project is available at https://www.figma.com/design/8jcRDimNgOibtqMsoUuOSI/Space-UI-UX-Description-Document--Copy-.
+  This is a code bundle for UI/UX Description Document (Copy). The original project is available at https://www.figma.com/design/6qkWCceToaXy6zShi8KGtH/UI-UX-Description-Document--Copy-.
 
   ## Running the code
 
